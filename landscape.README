@@ -1,0 +1,21 @@
+# Landscapes
+
+## Quad
+Every little green square is a quad (4 sides). Quads can stop being squares.
+
+## Section
+A Section is a square even group of quads (7x7, 15x15, 31x31, 63x63, 127x127, 255x255, don't know why even).
+
+## Components
+We can also group Sections in Coponents. 1x1 or 2x2 (meaning that 1 Section == 1 component, or 4 sections == 1 component)
+This can make LOD (level of detail) more customizable on each part of a component separately.
+
+## Landscape properties
+*Number of Components:* it gives the size of the landscape (how many little green quads per each side)
+Max: 32x32, min: 1x1 (1 component)
+At the very least we have 1 component = 1 section = 7x7 quads = 49 small green squares
+At the very most we have 32 x 32 components of 2x2 sections of 255x255 quads. 266 million quads!
+
+*Scale:* the size of each quad! (in cm). Default 100x100x100cm each quad.
+
+*Overall Resolution:* This is calculated automatically using `Number of Components` x `Section Size`
