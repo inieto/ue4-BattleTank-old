@@ -2,37 +2,37 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="UE4" targetName="BattleTank-TVOS-Shipping" />
-      <config projectName="UE4" targetName="FakeTarget" />
-      <config projectName="UE4" targetName="UE4Game" />
-      <config projectName="UE4" targetName="BattleTank-IOS-Shipping" />
       <config projectName="UE4" targetName="UE4Game-TVOS-Shipping" />
-      <config projectName="UE4" targetName="BattleTankEditor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BattleTankEditor-Mac-Shipping" />
-      <config projectName="UE4" targetName="UE4Editor" />
-      <config projectName="UE4" targetName="BattleTank-TVOS" />
-      <config projectName="UE4" targetName="BattleTankEditor-TVOS" />
-      <config projectName="UE4" targetName="BattleTank-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BattleTankEditor-IOS-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="BattleTankEditor-IOS" />
-      <config projectName="UE4" targetName="BattleTank" />
-      <config projectName="UE4" targetName="BattleTank-Mac-Shipping" />
+      <config projectName="UE4" targetName="BattleTank-TVOS-Shipping" />
       <config projectName="UE4" targetName="UE4Game-Mac-Shipping" />
-      <config projectName="UE4" targetName="BattleTankEditor-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="BattleTank-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="BattleTank-IOS-DebugGame" />
+      <config projectName="UE4" targetName="BattleTankEditor-Mac-Shipping" />
+      <config projectName="UE4" targetName="BattleTankEditor-TVOS-Shipping" />
+      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="BattleTankEditor-TVOS" />
+      <config projectName="UE4" targetName="UE4Game-TVOS" />
+      <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
+      <config projectName="UE4" targetName="BattleTankEditor-IOS-Shipping" />
       <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
       <config projectName="UE4" targetName="UE4Game-IOS" />
       <config projectName="UE4" targetName="BattleTankEditor" />
-      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-TVOS" />
       <config projectName="UE4" targetName="UE4Game-Mac-DebugGame" />
       <config projectName="UE4" targetName="BattleTank-IOS" />
+      <config projectName="UE4" targetName="BattleTank-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BattleTankEditor-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="BattleTank" />
+      <config projectName="UE4" targetName="BattleTankEditor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BattleTank-Mac-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor" />
+      <config projectName="UE4" targetName="BattleTank-TVOS" />
+      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BattleTank-IOS-Shipping" />
+      <config projectName="UE4" targetName="BattleTankEditor-IOS" />
+      <config projectName="UE4" targetName="BattleTank-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="BattleTank-IOS-DebugGame" />
       <config projectName="UE4" targetName="BattleTankEditor-IOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="FakeTarget" />
       <config projectName="UE4" targetName="UE4Editor-Mac-Shipping" />
-      <config projectName="UE4" targetName="BattleTankEditor-TVOS-Shipping" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -42,7 +42,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="528850be-244a-4037-acaf-911d2fdaee29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BattleGround.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BattleGround.umap" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,10 +68,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="793" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -276,37 +276,37 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.BattleTank" />
-      <item itemvalue="CMake Application.BattleTank-IOS" />
       <item itemvalue="CMake Application.BattleTank-IOS-DebugGame" />
       <item itemvalue="CMake Application.BattleTank-IOS-Shipping" />
+      <item itemvalue="CMake Application.BattleTank-IOS" />
       <item itemvalue="CMake Application.BattleTank-Mac-DebugGame" />
       <item itemvalue="CMake Application.BattleTank-Mac-Shipping" />
-      <item itemvalue="CMake Application.BattleTank-TVOS" />
       <item itemvalue="CMake Application.BattleTank-TVOS-DebugGame" />
       <item itemvalue="CMake Application.BattleTank-TVOS-Shipping" />
-      <item itemvalue="CMake Application.BattleTankEditor" />
-      <item itemvalue="CMake Application.BattleTankEditor-IOS" />
+      <item itemvalue="CMake Application.BattleTank-TVOS" />
       <item itemvalue="CMake Application.BattleTankEditor-IOS-DebugGame" />
       <item itemvalue="CMake Application.BattleTankEditor-IOS-Shipping" />
+      <item itemvalue="CMake Application.BattleTankEditor-IOS" />
       <item itemvalue="CMake Application.BattleTankEditor-Mac-DebugGame" />
       <item itemvalue="CMake Application.BattleTankEditor-Mac-Shipping" />
-      <item itemvalue="CMake Application.BattleTankEditor-TVOS" />
       <item itemvalue="CMake Application.BattleTankEditor-TVOS-DebugGame" />
       <item itemvalue="CMake Application.BattleTankEditor-TVOS-Shipping" />
+      <item itemvalue="CMake Application.BattleTankEditor-TVOS" />
+      <item itemvalue="CMake Application.BattleTankEditor" />
+      <item itemvalue="CMake Application.BattleTank" />
       <item itemvalue="CMake Application.FakeTarget" />
-      <item itemvalue="CMake Application.UE4Editor" />
       <item itemvalue="CMake Application.UE4Editor-Mac-DebugGame" />
       <item itemvalue="CMake Application.UE4Editor-Mac-Shipping" />
-      <item itemvalue="CMake Application.UE4Game" />
-      <item itemvalue="CMake Application.UE4Game-IOS" />
+      <item itemvalue="CMake Application.UE4Editor" />
       <item itemvalue="CMake Application.UE4Game-IOS-DebugGame" />
       <item itemvalue="CMake Application.UE4Game-IOS-Shipping" />
+      <item itemvalue="CMake Application.UE4Game-IOS" />
       <item itemvalue="CMake Application.UE4Game-Mac-DebugGame" />
       <item itemvalue="CMake Application.UE4Game-Mac-Shipping" />
-      <item itemvalue="CMake Application.UE4Game-TVOS" />
       <item itemvalue="CMake Application.UE4Game-TVOS-DebugGame" />
       <item itemvalue="CMake Application.UE4Game-TVOS-Shipping" />
+      <item itemvalue="CMake Application.UE4Game-TVOS" />
+      <item itemvalue="CMake Application.UE4Game" />
     </list>
   </component>
   <component name="TaskManager">
@@ -316,24 +316,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554094547636</updated>
-      <workItem from="1554094551016" duration="289000" />
+      <workItem from="1554094551016" duration="583000" />
+      <workItem from="1554299974729" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289000" />
+    <option name="totallyTimeSpent" value="686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="793" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -341,10 +337,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
