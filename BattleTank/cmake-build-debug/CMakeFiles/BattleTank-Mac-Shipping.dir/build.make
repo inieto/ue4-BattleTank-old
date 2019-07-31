@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/ignacio.nieto/Documents/proyectos/unreal_workspace/ude
 include CMakeFiles/BattleTank-Mac-Shipping.dir/progress.make
 
 CMakeFiles/BattleTank-Mac-Shipping:
-	cd "/Users/Shared/Epic Games/UE_4.21" && bash "/Users/Shared/Epic Games/UE_4.21/Engine/Build/BatchFiles/Mac/Build.sh" BattleTank Mac Shipping -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress -buildscw
+	cd "/Users/Shared/Epic Games/UE_4.22" && bash "/Users/Shared/Epic Games/UE_4.22/Engine/Build/BatchFiles/Mac/Build.sh" BattleTank Mac Shipping -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress -buildscw
 
 BattleTank-Mac-Shipping: CMakeFiles/BattleTank-Mac-Shipping
 BattleTank-Mac-Shipping: CMakeFiles/BattleTank-Mac-Shipping.dir/build.make

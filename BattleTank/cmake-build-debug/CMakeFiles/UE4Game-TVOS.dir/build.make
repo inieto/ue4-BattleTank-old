@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/ignacio.nieto/Documents/proyectos/unreal_workspace/ude
 include CMakeFiles/UE4Game-TVOS.dir/progress.make
 
 CMakeFiles/UE4Game-TVOS:
-	cd "/Users/Shared/Epic Games/UE_4.21" && bash "/Users/Shared/Epic Games/UE_4.21/Engine/Build/BatchFiles/Mac/Build.sh" UE4Game TVOS Development -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
+	cd "/Users/Shared/Epic Games/UE_4.22" && bash "/Users/Shared/Epic Games/UE_4.22/Engine/Build/BatchFiles/Mac/Build.sh" UE4Game TVOS Development -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
 
 UE4Game-TVOS: CMakeFiles/UE4Game-TVOS
 UE4Game-TVOS: CMakeFiles/UE4Game-TVOS.dir/build.make

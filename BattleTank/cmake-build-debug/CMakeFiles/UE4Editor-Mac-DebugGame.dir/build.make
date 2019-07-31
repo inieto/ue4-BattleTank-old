@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/ignacio.nieto/Documents/proyectos/unreal_workspace/ude
 include CMakeFiles/UE4Editor-Mac-DebugGame.dir/progress.make
 
 CMakeFiles/UE4Editor-Mac-DebugGame:
-	cd "/Users/Shared/Epic Games/UE_4.21" && bash "/Users/Shared/Epic Games/UE_4.21/Engine/Build/BatchFiles/Mac/Build.sh" UE4Editor Mac DebugGame -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress -buildscw
+	cd "/Users/Shared/Epic Games/UE_4.22" && bash "/Users/Shared/Epic Games/UE_4.22/Engine/Build/BatchFiles/Mac/Build.sh" UE4Editor Mac DebugGame -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress -buildscw
 
 UE4Editor-Mac-DebugGame: CMakeFiles/UE4Editor-Mac-DebugGame
 UE4Editor-Mac-DebugGame: CMakeFiles/UE4Editor-Mac-DebugGame.dir/build.make

@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/ignacio.nieto/Documents/proyectos/unreal_workspace/ude
 include CMakeFiles/BattleTankEditor-IOS-Shipping.dir/progress.make
 
 CMakeFiles/BattleTankEditor-IOS-Shipping:
-	cd "/Users/Shared/Epic Games/UE_4.21" && bash "/Users/Shared/Epic Games/UE_4.21/Engine/Build/BatchFiles/Mac/Build.sh" BattleTankEditor IOS Shipping -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
+	cd "/Users/Shared/Epic Games/UE_4.22" && bash "/Users/Shared/Epic Games/UE_4.22/Engine/Build/BatchFiles/Mac/Build.sh" BattleTankEditor IOS Shipping -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
 
 BattleTankEditor-IOS-Shipping: CMakeFiles/BattleTankEditor-IOS-Shipping
 BattleTankEditor-IOS-Shipping: CMakeFiles/BattleTankEditor-IOS-Shipping.dir/build.make

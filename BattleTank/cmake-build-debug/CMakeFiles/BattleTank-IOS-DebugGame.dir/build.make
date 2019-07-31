@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/ignacio.nieto/Documents/proyectos/unreal_workspace/ude
 include CMakeFiles/BattleTank-IOS-DebugGame.dir/progress.make
 
 CMakeFiles/BattleTank-IOS-DebugGame:
-	cd "/Users/Shared/Epic Games/UE_4.21" && bash "/Users/Shared/Epic Games/UE_4.21/Engine/Build/BatchFiles/Mac/Build.sh" BattleTank IOS DebugGame -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
+	cd "/Users/Shared/Epic Games/UE_4.22" && bash "/Users/Shared/Epic Games/UE_4.22/Engine/Build/BatchFiles/Mac/Build.sh" BattleTank IOS DebugGame -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
 
 BattleTank-IOS-DebugGame: CMakeFiles/BattleTank-IOS-DebugGame
 BattleTank-IOS-DebugGame: CMakeFiles/BattleTank-IOS-DebugGame.dir/build.make

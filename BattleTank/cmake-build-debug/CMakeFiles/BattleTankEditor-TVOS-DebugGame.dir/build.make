@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /Users/ignacio.nieto/Documents/proyectos/unreal_workspace/ude
 include CMakeFiles/BattleTankEditor-TVOS-DebugGame.dir/progress.make
 
 CMakeFiles/BattleTankEditor-TVOS-DebugGame:
-	cd "/Users/Shared/Epic Games/UE_4.21" && bash "/Users/Shared/Epic Games/UE_4.21/Engine/Build/BatchFiles/Mac/Build.sh" BattleTankEditor TVOS DebugGame -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
+	cd "/Users/Shared/Epic Games/UE_4.22" && bash "/Users/Shared/Epic Games/UE_4.22/Engine/Build/BatchFiles/Mac/Build.sh" BattleTankEditor TVOS DebugGame -project=/Users/ignacio.nieto/Documents/proyectos/unreal_workspace/udemy_course/Section_05/BattleTank/BattleTank.uproject -game -progress
 
 BattleTankEditor-TVOS-DebugGame: CMakeFiles/BattleTankEditor-TVOS-DebugGame
 BattleTankEditor-TVOS-DebugGame: CMakeFiles/BattleTankEditor-TVOS-DebugGame.dir/build.make
